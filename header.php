@@ -7,8 +7,14 @@
     <title>Document</title>
 </head>
 <body>
+<div id="hero">
+    <h1 id="title">RASTA FOR I</h1>
+    <p id="red_word">Beautify</p>
+    <p id="yello_word">your outer</p>
+    <p id="green_word">shell</p>
+</div>
 <header>
-    <div id="hero"></div>
+   
     <nav>
         <ul>
             <li><a href="./index.php">HOME</a></li>
